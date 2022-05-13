@@ -1,0 +1,12 @@
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\bin\Debug\StudentWebsite.Bal.dll.config
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\bin\Debug\StudentWebsite.Bal.dll
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\bin\Debug\StudentWebsite.Bal.pdb
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\bin\Debug\EntityFramework.dll
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\bin\Debug\EntityFramework.SqlServer.dll
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\bin\Debug\EntityFramework.xml
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\bin\Debug\EntityFramework.SqlServer.xml
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\obj\Debug\StudentWebsite.Bal.csprojAssemblyReference.cache
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\obj\Debug\StudentWebsite.Bal.csproj.CoreCompileInputs.cache
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\obj\Debug\StudentWebsite.Bal.csproj.CopyComplete
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\obj\Debug\StudentWebsite.Bal.dll
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Bal\obj\Debug\StudentWebsite.Bal.pdb

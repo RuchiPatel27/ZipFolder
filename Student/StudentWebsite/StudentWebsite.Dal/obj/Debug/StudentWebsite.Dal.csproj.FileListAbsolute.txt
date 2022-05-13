@@ -1,0 +1,12 @@
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\bin\Debug\StudentWebsite.Dal.dll.config
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\bin\Debug\StudentWebsite.Dal.dll
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\bin\Debug\StudentWebsite.Dal.pdb
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\bin\Debug\EntityFramework.dll
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\bin\Debug\EntityFramework.SqlServer.dll
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\bin\Debug\EntityFramework.xml
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\bin\Debug\EntityFramework.SqlServer.xml
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\obj\Debug\StudentWebsite.Dal.csprojAssemblyReference.cache
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\obj\Debug\StudentWebsite.Dal.csproj.CoreCompileInputs.cache
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\obj\Debug\StudentWebsite.Dal.csproj.CopyComplete
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\obj\Debug\StudentWebsite.Dal.dll
+D:\VibhaMunyal_VisionInterview\StudentWebsite\StudentWebsite.Dal\obj\Debug\StudentWebsite.Dal.pdb
